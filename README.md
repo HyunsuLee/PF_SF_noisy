@@ -1,4 +1,4 @@
 # PF_SF_noisy
-Robust Decision-Making in Spatial Learning: A Comparative Study of Successor Features and Predecessor Features Algorithms
+Exploring the Noise Resilience of Successor Features and Predecessor Features Algorithms in One and Two-Dimensional Environments
 
 TO BE UPDATED
