@@ -1,5 +1,5 @@
 # PF_SF_noisy
-Exploring the Noise Resilience of Successor Features and Predecessor Features Algorithms in One and Two-Dimensional Environments
+Lee H. Noise Resilience of Successor and Predecessor Feature Algorithms in One- and Two-Dimensional Environments. Sensors. 2025; 25(3):979. [https://doi.org/10.3390/s25030979](https://doi.org/10.3390/s25030979)
 
 ## Description
 * ./predecessor/ : Predecessor Features implementation. 
